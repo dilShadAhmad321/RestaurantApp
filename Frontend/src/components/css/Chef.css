@@ -1,0 +1,17 @@
+.content-chef{
+    padding-top: 6vh;
+    background-color: rgba(0, 0, 0, 0.884);
+    color: white;
+}
+.cheif{
+    display: flex;
+}
+.cheif-img img{
+    height: 90vh;
+    padding-left: 5%;
+}
+.cheif-des{
+    padding-left: 5%;
+    padding-top: 20vh;
+    padding-right: 10%;
+}

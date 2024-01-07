@@ -1,0 +1,23 @@
+.content-offer{
+    background-color: rgba(0, 0, 0, 0.884);
+}
+.btn3{
+    margin: 0;
+    border-radius:5vh;
+    border: 0vh;
+    background-color: rgba(255,166,0);
+    font-size:medium;
+    font-weight: bolder;
+ }
+ .btn3:hover{
+    background-color: rgba(255,166,0);
+    box-shadow: 0 0 5px rgba(255,166,0),
+                0 0 30px rgba(255,166,0);
+ }
+ .btn3 a{
+    text-decoration: none;
+    color: white;
+ }
+ .btn3 a:hover{
+    color: black;
+ }

@@ -1,0 +1,10 @@
+.content-contact{
+
+    background-color: rgba(0, 0, 0, 0.747);
+ 
+ }
+input{
+    display: flex;
+    border-radius: 3vh;
+    padding: 1vh 3vh;
+ }
